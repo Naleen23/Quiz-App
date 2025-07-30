@@ -44,7 +44,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Quiz-app.git
+git clone https://github.com/Naleen23/Quiz-app.git
 cd quiz-app
 Open index.html in your browser to launch the quiz.
 
